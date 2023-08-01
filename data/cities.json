@@ -13,18 +13,6 @@
       "id": 73930385
     },
     {
-      "cityName": "Madrid",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2027-07-15T08:22:53.976Z",
-      "notes": "",
-      "position": {
-        "lat": 40.46635901755316,
-        "lng": -3.7133789062500004
-      },
-      "id": 13464633
-    },
-    {
       "cityName": "Berlin",
       "country": "Germany",
       "emoji": "🇩🇪",
@@ -36,18 +24,7 @@
       },
       "id": 98443197
     },
-    {
-      "cityName": "Castello de la Plana",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2023-07-26T23:22:07.207Z",
-      "notes": "",
-      "position": {
-        "lat": "40.016562263225836",
-        "lng": "-0.06384881263499233"
-      },
-      "id": 98443198
-    },
+
     {
       "cityName": "San Juan de Moro, l'Alcora",
       "country": "Spain",
@@ -59,30 +36,6 @@
         "lng": "-0.15657196925494166"
       },
       "id": 98443199
-    },
-    {
-      "cityName": "San Juan de Moro",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2023-07-26T23:27:20.451Z",
-      "notes": "",
-      "position": {
-        "lat": "40.07438571178927",
-        "lng": "-0.1292182437246581"
-      },
-      "id": 98443200
-    },
-    {
-      "cityName": "San Juan de Moro",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2023-07-26T23:27:20.451Z",
-      "notes": "asd",
-      "position": {
-        "lat": "40.07438571178927",
-        "lng": "-0.1292182437246581"
-      },
-      "id": 98443201
     },
     {
       "cityName": "Useras",
@@ -275,186 +228,6 @@
         "lng": "-0.036577483419060204"
       },
       "id": 98443219
-    },
-    {
-      "cityName": "Quezon City",
-      "country": "Philippines (the)",
-      "emoji": "🇵🇭",
-      "date": "2023-08-01T08:02:33.740Z",
-      "notes": "",
-      "position": {
-        "lat": "14.6956769376899",
-        "lng": "121.01778683387771"
-      },
-      "id": 98443221
-    },
-    {
-      "cityName": "Meycauayan",
-      "country": "Philippines (the)",
-      "emoji": "🇵🇭",
-      "date": "2023-08-01T11:06:05.180Z",
-      "notes": "",
-      "position": {
-        "lat": "14.733041381424675",
-        "lng": "120.95980179762776"
-      },
-      "id": 98443222
-    },
-    {
-      "cityName": "Santa Maria",
-      "country": "Philippines (the)",
-      "emoji": "🇵🇭",
-      "date": "2023-08-01T11:06:09.360Z",
-      "notes": "",
-      "position": {
-        "lat": "14.818366498093013",
-        "lng": "120.9637294155135"
-      },
-      "id": 98443223
-    },
-    {
-      "cityName": "Norzagaray",
-      "country": "Philippines (the)",
-      "emoji": "🇵🇭",
-      "date": "2023-08-01T11:06:13.040Z",
-      "notes": "",
-      "position": {
-        "lat": "14.903641234832294",
-        "lng": "121.04628620821607"
-      },
-      "id": 98443224
-    },
-    {
-      "cityName": "Sansha",
-      "country": "China",
-      "emoji": "🇨🇳",
-      "date": "2023-08-01T11:06:30.724Z",
-      "notes": "",
-      "position": {
-        "lat": "16.64561006928696",
-        "lng": "112.10336277970481"
-      },
-      "id": 98443225
-    },
-    {
-      "cityName": "Fukushima",
-      "country": "Japan",
-      "emoji": "🇯🇵",
-      "date": "2023-08-01T11:07:03.782Z",
-      "notes": "",
-      "position": {
-        "lat": "37.66694168387683",
-        "lng": "140.5184180495099"
-      },
-      "id": 98443229
-    },
-    {
-      "cityName": "Tornos",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2023-08-01T11:08:04.915Z",
-      "notes": "",
-      "position": {
-        "lat": "40.96338981631759",
-        "lng": "-1.4224967995915883"
-      },
-      "id": 98443230
-    },
-    {
-      "cityName": "Sarratella",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2023-08-01T11:19:20.059Z",
-      "notes": "",
-      "position": {
-        "lat": "40.32978608061546",
-        "lng": "0.05081276026433823"
-      },
-      "id": 98443231
-    },
-    {
-      "cityName": "Zaragoza",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2023-08-01T11:20:17.502Z",
-      "notes": "",
-      "position": {
-        "lat": "41.531111686600056",
-        "lng": "-0.8404420853378448"
-      },
-      "id": 98443232
-    },
-    {
-      "cityName": "Chodos",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2023-08-01T11:43:28.608Z",
-      "notes": "",
-      "position": {
-        "lat": "40.22005501969754",
-        "lng": "-0.2986908048915239"
-      },
-      "id": 98443233
-    },
-    {
-      "cityName": "Culla",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2023-08-01T13:58:49.799Z",
-      "notes": "",
-      "position": {
-        "lat": "40.310957265639445",
-        "lng": "-0.12994767205965155"
-      },
-      "id": 98443234
-    },
-    {
-      "cityName": "Castello de la Plana",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2023-08-01T14:00:03.770Z",
-      "notes": "",
-      "position": {
-        "lat": "40.02065880022505",
-        "lng": "-0.010986328125"
-      },
-      "id": 98443235
-    },
-    {
-      "cityName": "Castello de la Plana",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2023-08-01T14:00:27.911Z",
-      "notes": "",
-      "position": {
-        "lat": "40.02381284337269",
-        "lng": "0.015792846679687503"
-      },
-      "id": 98443236
-    },
-    {
-      "cityName": "Castello de la Plana",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2023-08-01T14:01:18.897Z",
-      "notes": "",
-      "position": {
-        "lat": "40.01487741135653",
-        "lng": "0.02063826354210985"
-      },
-      "id": 98443237
-    },
-    {
-      "cityName": "Odense",
-      "country": "Denmark",
-      "emoji": "🇩🇰",
-      "date": "2023-08-01T14:02:18.533Z",
-      "notes": "",
-      "position": {
-        "lat": "55.41919543797788",
-        "lng": "10.330940428855198"
-      },
-      "id": 98443238
     }
   ]
 }
