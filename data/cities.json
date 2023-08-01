@@ -395,6 +395,66 @@
         "lng": "-0.2986908048915239"
       },
       "id": 98443233
+    },
+    {
+      "cityName": "Culla",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-08-01T13:58:49.799Z",
+      "notes": "",
+      "position": {
+        "lat": "40.310957265639445",
+        "lng": "-0.12994767205965155"
+      },
+      "id": 98443234
+    },
+    {
+      "cityName": "Castello de la Plana",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-08-01T14:00:03.770Z",
+      "notes": "",
+      "position": {
+        "lat": "40.02065880022505",
+        "lng": "-0.010986328125"
+      },
+      "id": 98443235
+    },
+    {
+      "cityName": "Castello de la Plana",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-08-01T14:00:27.911Z",
+      "notes": "",
+      "position": {
+        "lat": "40.02381284337269",
+        "lng": "0.015792846679687503"
+      },
+      "id": 98443236
+    },
+    {
+      "cityName": "Castello de la Plana",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-08-01T14:01:18.897Z",
+      "notes": "",
+      "position": {
+        "lat": "40.01487741135653",
+        "lng": "0.02063826354210985"
+      },
+      "id": 98443237
+    },
+    {
+      "cityName": "Odense",
+      "country": "Denmark",
+      "emoji": "🇩🇰",
+      "date": "2023-08-01T14:02:18.533Z",
+      "notes": "",
+      "position": {
+        "lat": "55.41919543797788",
+        "lng": "10.330940428855198"
+      },
+      "id": 98443238
     }
   ]
 }
