@@ -1,0 +1,400 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": 73930385
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": 13464633
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": 98443197
+    },
+    {
+      "cityName": "Castello de la Plana",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-07-26T23:22:07.207Z",
+      "notes": "",
+      "position": {
+        "lat": "40.016562263225836",
+        "lng": "-0.06384881263499233"
+      },
+      "id": 98443198
+    },
+    {
+      "cityName": "San Juan de Moro, l'Alcora",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-07-26T23:24:45.872Z",
+      "notes": "",
+      "position": {
+        "lat": "40.08713058982043",
+        "lng": "-0.15657196925494166"
+      },
+      "id": 98443199
+    },
+    {
+      "cityName": "San Juan de Moro",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-07-26T23:27:20.451Z",
+      "notes": "",
+      "position": {
+        "lat": "40.07438571178927",
+        "lng": "-0.1292182437246581"
+      },
+      "id": 98443200
+    },
+    {
+      "cityName": "San Juan de Moro",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-07-26T23:27:20.451Z",
+      "notes": "asd",
+      "position": {
+        "lat": "40.07438571178927",
+        "lng": "-0.1292182437246581"
+      },
+      "id": 98443201
+    },
+    {
+      "cityName": "Useras",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-07-26T23:27:20.451Z",
+      "notes": "asd",
+      "position": {
+        "lat": "40.168759502589545",
+        "lng": "-0.16629006798234205"
+      },
+      "id": 98443202
+    },
+    {
+      "cityName": "Adzaneta",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-07-26T23:31:20.048Z",
+      "notes": "",
+      "position": {
+        "lat": "40.19893139853858",
+        "lng": "-0.16801974334252237"
+      },
+      "id": 98443203
+    },
+    {
+      "cityName": "Vistabella del Maestrazgo",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-07-26T23:32:11.511Z",
+      "notes": "",
+      "position": {
+        "lat": "40.32495877748018",
+        "lng": "-0.2932242167662747"
+      },
+      "id": 98443204
+    },
+    {
+      "cityName": "Monte de El Pardo, Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-07-27T00:43:37.836Z",
+      "notes": "Not yet",
+      "position": {
+        "lat": "40.49318091825232",
+        "lng": "-3.805904391061628"
+      },
+      "id": 98443205
+    },
+    {
+      "cityName": "6th District, Quezon City",
+      "country": "Philippines (the)",
+      "emoji": "🇵🇭",
+      "date": "2023-07-27T00:44:07.378Z",
+      "notes": "",
+      "position": {
+        "lat": "14.67057957676273",
+        "lng": "121.05264186646312"
+      },
+      "id": 98443206
+    },
+    {
+      "cityName": "San Jose del Monte",
+      "country": "Philippines (the)",
+      "emoji": "🇵🇭",
+      "date": "2023-07-27T02:11:43.924Z",
+      "notes": "",
+      "position": {
+        "lat": "14.807421641405186",
+        "lng": "121.0470199468255"
+      },
+      "id": 98443207
+    },
+    {
+      "cityName": "Angat",
+      "country": "Philippines (the)",
+      "emoji": "🇵🇭",
+      "date": "2023-07-27T02:12:09.380Z",
+      "notes": "",
+      "position": {
+        "lat": "14.922566090520311",
+        "lng": "121.03122709703169"
+      },
+      "id": 98443208
+    },
+    {
+      "cityName": "Palauig, San Jose",
+      "country": "Philippines (the)",
+      "emoji": "🇵🇭",
+      "date": "2023-07-27T02:12:44.820Z",
+      "notes": "",
+      "position": {
+        "lat": "15.464295926865697",
+        "lng": "120.17532330460382"
+      },
+      "id": 98443209
+    },
+    {
+      "cityName": "Maryland Park, Washington",
+      "country": "United States of America (the)",
+      "emoji": "🇺🇸",
+      "date": "2023-07-27T02:12:55.461Z",
+      "notes": "",
+      "position": {
+        "lat": "38.89332994160462",
+        "lng": "-76.91528323478998"
+      },
+      "id": 98443210
+    },
+    {
+      "cityName": "Castello de la Plana",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-07-27T02:13:52.161Z",
+      "notes": "",
+      "position": {
+        "lat": "39.98515476714328",
+        "lng": "-0.036220557944024456"
+      },
+      "id": 98443211
+    },
+    {
+      "cityName": "Borriol",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-07-27T02:14:54.932Z",
+      "notes": "",
+      "position": {
+        "lat": "40.072297695112745",
+        "lng": "-0.02409448130219927"
+      },
+      "id": 98443213
+    },
+    {
+      "cityName": "Vilafames",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-07-27T02:27:50.539Z",
+      "notes": "",
+      "position": {
+        "lat": "40.10026421550851",
+        "lng": "-0.05449131916764439"
+      },
+      "id": 98443215
+    },
+    {
+      "cityName": "Borriol",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-07-27T05:06:09.787Z",
+      "notes": "",
+      "position": {
+        "lat": "40.08858520851564",
+        "lng": "-0.038661471517009716"
+      },
+      "id": 98443216
+    },
+    {
+      "cityName": "Castello de la Plana",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-07-27T06:48:19.182Z",
+      "notes": "",
+      "position": {
+        "lat": "40.01855004910829",
+        "lng": "0.007165178447405831"
+      },
+      "id": 98443217
+    },
+    {
+      "cityName": "Cainta",
+      "country": "Philippines (the)",
+      "emoji": "🇵🇭",
+      "date": "2023-07-27T06:48:39.891Z",
+      "notes": "",
+      "position": {
+        "lat": "14.628952108279984",
+        "lng": "121.10070360814683"
+      },
+      "id": 98443218
+    },
+    {
+      "cityName": "Castello de la Plana",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-08-01T07:56:26.009Z",
+      "notes": "Test",
+      "position": {
+        "lat": "39.98477129813567",
+        "lng": "-0.036577483419060204"
+      },
+      "id": 98443219
+    },
+    {
+      "cityName": "Quezon City",
+      "country": "Philippines (the)",
+      "emoji": "🇵🇭",
+      "date": "2023-08-01T08:02:33.740Z",
+      "notes": "",
+      "position": {
+        "lat": "14.6956769376899",
+        "lng": "121.01778683387771"
+      },
+      "id": 98443221
+    },
+    {
+      "cityName": "Meycauayan",
+      "country": "Philippines (the)",
+      "emoji": "🇵🇭",
+      "date": "2023-08-01T11:06:05.180Z",
+      "notes": "",
+      "position": {
+        "lat": "14.733041381424675",
+        "lng": "120.95980179762776"
+      },
+      "id": 98443222
+    },
+    {
+      "cityName": "Santa Maria",
+      "country": "Philippines (the)",
+      "emoji": "🇵🇭",
+      "date": "2023-08-01T11:06:09.360Z",
+      "notes": "",
+      "position": {
+        "lat": "14.818366498093013",
+        "lng": "120.9637294155135"
+      },
+      "id": 98443223
+    },
+    {
+      "cityName": "Norzagaray",
+      "country": "Philippines (the)",
+      "emoji": "🇵🇭",
+      "date": "2023-08-01T11:06:13.040Z",
+      "notes": "",
+      "position": {
+        "lat": "14.903641234832294",
+        "lng": "121.04628620821607"
+      },
+      "id": 98443224
+    },
+    {
+      "cityName": "Sansha",
+      "country": "China",
+      "emoji": "🇨🇳",
+      "date": "2023-08-01T11:06:30.724Z",
+      "notes": "",
+      "position": {
+        "lat": "16.64561006928696",
+        "lng": "112.10336277970481"
+      },
+      "id": 98443225
+    },
+    {
+      "cityName": "Fukushima",
+      "country": "Japan",
+      "emoji": "🇯🇵",
+      "date": "2023-08-01T11:07:03.782Z",
+      "notes": "",
+      "position": {
+        "lat": "37.66694168387683",
+        "lng": "140.5184180495099"
+      },
+      "id": 98443229
+    },
+    {
+      "cityName": "Tornos",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-08-01T11:08:04.915Z",
+      "notes": "",
+      "position": {
+        "lat": "40.96338981631759",
+        "lng": "-1.4224967995915883"
+      },
+      "id": 98443230
+    },
+    {
+      "cityName": "Sarratella",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-08-01T11:19:20.059Z",
+      "notes": "",
+      "position": {
+        "lat": "40.32978608061546",
+        "lng": "0.05081276026433823"
+      },
+      "id": 98443231
+    },
+    {
+      "cityName": "Zaragoza",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-08-01T11:20:17.502Z",
+      "notes": "",
+      "position": {
+        "lat": "41.531111686600056",
+        "lng": "-0.8404420853378448"
+      },
+      "id": 98443232
+    },
+    {
+      "cityName": "Chodos",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-08-01T11:43:28.608Z",
+      "notes": "",
+      "position": {
+        "lat": "40.22005501969754",
+        "lng": "-0.2986908048915239"
+      },
+      "id": 98443233
+    }
+  ]
+}
